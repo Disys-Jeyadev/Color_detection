@@ -1,0 +1,67 @@
+
+The R G B Values is : 178,11,5
+The Hex value : B20B05
+The Closest Color Name is : firebrick
+The R G B Values is : 153,8,3
+The Hex value : 990803
+The Closest Color Name is : darkred
+The R G B Values is : 151,5,5
+The Hex value : 970505
+The Closest Color Name is : darkred
+The R G B Values is : 79,155,253
+The Hex value : 4F9BFD
+The Closest Color Name is : cornflowerblue
+The R G B Values is : 73,137,43
+The Hex value : 49892B
+The Closest Color Name is : darkolivegreen
+The R G B Values is : 246,184,73
+The Hex value : F6B849
+The Closest Color Name is : sandybrown
+The R G B Values is : 217,170,222
+The Hex value : D9AADE
+The Closest Color Name is : plum
+The R G B Values is : 228,241,255
+The Hex value : E4F1FF
+The Closest Color Name is : lavender
+The R G B Values is : 81,151,239
+The Hex value : 5197EF
+The Closest Color Name is : cornflowerblue
+The R G B Values is : 226,119,161
+The Hex value : E277A1
+The Closest Color Name is : palevioletred
+The R G B Values is : 93,149,234
+The Hex value : 5D95EA
+The Closest Color Name is : cornflowerblue
+The R G B Values is : 227,96,50
+The Hex value : None
+The Closest Color Name is : chocolate
+The R G B Values is : 231,101,52
+The Hex value : E76534
+The Closest Color Name is : tomato
+The R G B Values is : 227,96,42
+The Hex value : None
+The Closest Color Name is : chocolate
+The R G B Values is : 58,116,31
+The Hex value : 3A741F
+The Closest Color Name is : darkolivegreen
+The R G B Values is : 38,100,203
+The Hex value : 2664CB
+The Closest Color Name is : royalblue
+The R G B Values is : 63,131,230
+The Hex value : 3F83E6
+The Closest Color Name is : royalblue
+The R G B Values is : 190,17,13
+The Hex value : BE110D
+The Closest Color Name is : firebrick
+The R G B Values is : 165,10,5
+The Hex value : A50A05
+The Closest Color Name is : darkred
+The R G B Values is : 59,137,235
+The Hex value : 3B89EB
+The Closest Color Name is : royalblue
+The R G B Values is : 95,165,67
+The Hex value : 5FA543
+The Closest Color Name is : olivedrab
+The R G B Values is : 247,184,71
+The Hex value : F7B847
+The Closest Color Name is : sandybrown
